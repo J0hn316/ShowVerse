@@ -27,7 +27,7 @@
 
 ---
 
-<!-- ## 📸 Preview
+## 📸 Preview
 
 Work in progress
 
